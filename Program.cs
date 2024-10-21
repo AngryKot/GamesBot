@@ -14,7 +14,7 @@ using Telegram.Bot.Types.ReplyMarkups;
 
 class Program
 {
-    private static readonly string BotToken = "botid";
+    private static readonly string BotToken = "7687782049:AAHG9ax8JOb7RVbcHSci8xpSX0GWMRcGo4M";
     private static ITelegramBotClient botClient;
 
     // Словарь для хранения состояния игр каждого пользователя
